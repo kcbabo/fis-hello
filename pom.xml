@@ -9,7 +9,7 @@
   <packaging>jar</packaging>
 
   <name>Fabric8 :: Quickstarts :: CDI :: Camel</name>
-  <description>Camel route using CDI in a standalone Java Container</description>
+  <description>Camel route using CDI in a standalone Java Container.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
