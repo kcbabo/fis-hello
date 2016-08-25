@@ -25,6 +25,7 @@
       <id>fusesource.repo</id>
       <repositories>
         
+  <!--
 <repository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
@@ -37,6 +38,7 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </repository>
+      -->
         <repository>
           <id>fusesource.m2</id>
           <name>FuseSource Community Release Repository</name>
@@ -76,6 +78,7 @@
 
       </repositories>
       <pluginRepositories>
+        <!--
         <pluginRepository>
           <id>openshift.local</id>
           <name>OpenShift Local</name>
@@ -88,6 +91,7 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </pluginRepository>
+      -->
         <pluginRepository>
           <id>fusesource.m2</id>
           <name>FuseSource Community Release Repository</name>
